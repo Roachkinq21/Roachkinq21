@@ -24,6 +24,11 @@ Bachelor's in Information Technology while working part-time in the industry.
 
 ---
 
+### 📂 Featured Projects
+| 🎮 Hold Onto Mi | A visual novel about dating an anthropomorphic Triceratops | Renpy, Python |
+| 🌐 Meat Party | A 3D platformer about escaping an elaborate haunted house | Godot, GDScript, C# |
+
+---
 ### 🎯 Goals
 - Ship my first commercial game
 - Contribute to open source projects

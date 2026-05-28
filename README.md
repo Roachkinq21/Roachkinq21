@@ -8,8 +8,8 @@ Bachelor's in Information Technology while working part-time in the industry.
 
 ### 🎮 About Me
 - 🖥️ I specialize in **game development**, **web application development** and **software development**
-- 🎓 Currently working toward my **B.S. in Information Technology**
-- 💼 Balancing part-time work alongside my studies
+- 🎓 GGC Alumni
+- 💼 Looking for full time employment
 - 🌱 Always learning and expanding my skill set
 - 🚀 Passionate about creating meaningful, polished digital experiences
 

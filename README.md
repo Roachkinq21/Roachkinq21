@@ -16,7 +16,7 @@ Bachelor's in Information Technology while working part-time in the industry.
 ---
 
 ### 🛠️ Skills & Technologies
-- **Languages:** Java, C#, JavaScript, Python, HTML/CSS
+- **Languages:** Java, C#, JavaScript, TypeScript, Python, HTML/CSS
 - **Game Engines:** Unity, Godot
 - **Web:** React, Node.js, Bootstrap, TailwindCSS
 - **Tools:** Git, VS Code, Visual Studio IDE, IntelliJ Suite, Eclipse, Blender, Clip Studio Paint

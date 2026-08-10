@@ -1,8 +1,7 @@
 ## Hi there, I'm Roach 👋
 
 I'm a **Game Developer** and **Web App Developer** with a passion for building
-immersive experiences and practical applications. I'm currently pursuing a
-Bachelor's in Information Technology while working part-time in the industry.
+immersive experiences and practical applications. I'm currently an alumnus with a bachelor's degree in Computer Science and Technology.
 
 ---
 
